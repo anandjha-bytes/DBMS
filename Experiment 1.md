@@ -1,4 +1,4 @@
-1. EXP1 – Basic DDL, DML, and Simple Queries
+EXP1 – Basic DDL, DML, and Simple Queries
 Q1. Create Employee_master from EMPLOYEE
 
 sql CREATE TABLE Employee_master AS SELECT * FROM EMPLOYEE;
