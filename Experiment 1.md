@@ -5,11 +5,11 @@
   ```sql
   CREATE TABLE Employee_master AS
   SELECT * FROM EMPLOYEE;
-  Q2. Display all records from Employee_master
+ - ** Q2. Display all records from Employee_master
 
-SQL
+```SQL
 SELECT * FROM Employee_master;
-Q3. Delete all employees of department 10 from Employee_master
+ - ** Q3. Delete all employees of department 10 from Employee_master
 
 SQL
 DELETE FROM Employee_master
